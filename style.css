@@ -1,0 +1,21 @@
+/* find the div */
+div {
+    background-color: darkblue;
+}
+
+/* Find a tag by its ID (use a # symbol in front of the ID name) */
+#box-blue {
+    background-color: green;
+}
+
+#box-red {
+    background-color: red;
+}
+
+/* Find tags by classname */
+.box-orange {
+    background-color: orange;
+}
+.box-purple {
+    background-color: purple;
+}
